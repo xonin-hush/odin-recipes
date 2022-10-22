@@ -9,6 +9,7 @@ This is a project that demonstrates a web page about recipes that is supposed sh
 
 ## Features
 - Ability to go back to home page from recipe pages
+- Ability to click README heading to visit main site
 
 ## Credits
 This project was made by [Xonin](https://github.com/xonin-hush) for The Odin Project.
