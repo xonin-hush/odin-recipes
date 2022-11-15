@@ -1,0 +1,14 @@
+#img{
+    height: auto;
+    width: 500px;
+}
+
+#title{
+    background-color: rgb(134, 31, 31);
+    text-align: center;
+}
+
+#bt{
+    background-color: rgb(134, 31, 31);
+    font-size: larger;
+}

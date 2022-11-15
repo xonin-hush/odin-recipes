@@ -1,0 +1,9 @@
+#img{
+    height: auto;
+    width: 500px;
+}
+
+#bt{
+    background-color: rgba(0, 255, 255, 0.505);
+    font-size: larger;
+}
