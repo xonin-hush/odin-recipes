@@ -1,0 +1,27 @@
+#title {
+    text-align: center;
+    background-color: rgb(253, 208, 215);
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.main{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#yellow{
+    background-color: rgba(255, 255, 0, 0.503);
+}
+
+#brown{
+    background-color: rgba(74, 28, 28, 0.567);
+}
+
+#blue{
+    background-color: rgba(0, 255, 255, 0.505);
+}
+
+#red{
+    background-color: rgba(255, 0, 0, 0.478);
+}
